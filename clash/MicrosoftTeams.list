@@ -1,1 +1,17 @@
-
+# Microsoft Teams
+IP-CIDR,13.107.64.0/18,no-resolve
+IP-CIDR,52.112.0.0/14,no-resolve
+IP-CIDR,52.122.0.0/15,no-resolve
+IP-CIDR6,2603:1063::/39,no-resolve
+IP-CIDR,13.107.64.0/18,no-resolve
+IP-CIDR,52.112.0.0/14,no-resolve
+IP-CIDR,52.122.0.0/15,no-resolve
+IP-CIDR,52.238.119.141/32,no-resolve
+IP-CIDR,52.244.160.207/32,no-resolve
+IP-CIDR6,2603:1027::/48,no-resolve
+IP-CIDR6,2603:1037::/48,no-resolve
+IP-CIDR6,2603:1047::/48,no-resolve
+IP-CIDR6,2603:1057::/48,no-resolve
+IP-CIDR6,2603:1063::/39,no-resolve
+IP-CIDR6,2620:1ec:6::/48,no-resolve
+IP-CIDR6,2620:1ec:40::/4,no-resolve
