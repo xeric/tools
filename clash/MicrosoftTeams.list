@@ -16,6 +16,6 @@ IP-CIDR6,2603:1063::/39,no-resolve
 IP-CIDR6,2620:1ec:6::/48,no-resolve
 IP-CIDR6,2620:1ec:40::/4,no-resolve
 
-#Microsoft Exchange
+# Microsoft Exchange
 IP-CIDR,52.98.0.0/14,no-resolve
 IP-CIDR,52.98.0.0/15,no-resolve
