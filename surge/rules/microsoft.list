@@ -26,3 +26,4 @@ DOMAIN-SUFFIX,teams.cdn.live.net,direct
 DOMAIN-SUFFIX,teams.live.com,direct
 DOMAIN-SUFFIX,teams.microsoft.com,direct
 DOMAIN-SUFFIX,teams.events.data.microsoft.com,direct
+DOMAIN-SUFFIX,statics.teams.cdn.office.net,direct
