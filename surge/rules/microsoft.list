@@ -1,0 +1,28 @@
+# Microsoft Teams
+ip-cidr, 192.168.0.0/16, direct
+ip-cidr,13.107.64.0/18,direct
+ip-cidr,52.112.0.0/14,direct
+ip-cidr,52.122.0.0/15,direct
+ip6-cidr,2603:1063::/39,direct
+ip-cidr,13.107.64.0/18,direct
+ip-cidr,52.112.0.0/14,direct
+ip-cidr,52.122.0.0/15,direct
+ip-cidr,52.238.119.141/32,direct
+ip-cidr,52.244.160.207/32,direct
+ip6-cidr,2603:1027::/48,direct
+ip6-cidr,2603:1037::/48,direct
+ip6-cidr,2603:1047::/48,direct
+ip6-cidr,2603:1057::/48,direct
+ip6-cidr,2603:1063::/39,direct
+ip6-cidr,2620:1ec:6::/48,direct
+ip6-cidr,2620:1ec:40::/4,direct
+
+# Microsoft Exchange
+ip-cidr,52.98.0.0/14,direct
+ip-cidr,52.98.0.0/15,direct
+
+# Teams Domains
+DOMAIN-SUFFIX,teams.cdn.live.net,direct
+DOMAIN-SUFFIX,teams.live.com,direct
+DOMAIN-SUFFIX,teams.microsoft.com,direct
+DOMAIN,teams.events.data.microsoft.com,direct
