@@ -25,5 +25,7 @@ ip-cidr,52.98.0.0/15,direct
 DOMAIN-SUFFIX,teams.cdn.live.net,direct
 DOMAIN-SUFFIX,teams.live.com,direct
 DOMAIN-SUFFIX,teams.microsoft.com,direct
-DOMAIN-SUFFIX,teams.events.data.microsoft.com,direct
 DOMAIN-SUFFIX,statics.teams.cdn.office.net,direct
+
+# Events
+DOMAIN-SUFFIX,events.data.microsoft.com,direct
