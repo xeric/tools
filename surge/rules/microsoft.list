@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,statics.teams.cdn.office.net,direct
 
 # Events
 DOMAIN-SUFFIX,events.data.microsoft.com,direct
+
+# CDN
+statics.teams.cdn.office.net
